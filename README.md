@@ -1,0 +1,2 @@
+# pinatjs_vanilla2
+ 
