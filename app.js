@@ -13,7 +13,7 @@ const resizeHeight = document.getElementById("height__control");
 
 const INI__COLOR = "#2c2c2c";
 
-canvas.width = 400;
+canvas.width = 1000;
 canvas.height = 400;
 console.log(canvas.offsetWidth);
 
